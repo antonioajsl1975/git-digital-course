@@ -4,4 +4,4 @@
 
 * Comando git push
 * Comando git pull
-* Outro commando git pull
+* Outro comando git pull
