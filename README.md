@@ -3,3 +3,4 @@
 # Novo título: Git# git-digital-coursegit 
 
 * Comando git push
+* Comando git pull 
